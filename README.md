@@ -10,7 +10,7 @@
 
 Here are some ideas to get you started:
 -->
-I'm a full stack developer. I have experience with Laravel, i was part of a team that build the Library management and the student information system of a university; and i recently help to build and maintain the internal software of a startup. I also have experience with Livewire, VueJS, Tailwind, Jquery, MySQL, MongoDB and more. For years i worked in the IT department and 5 years ago i started to develop. Now i'm a full stack developer full time and i love what i do. Best desition ever!
+I'm a full stack developer. I have experience with Laravel, i was part of a team that build the Library management and the student information system of a university using Laravel+Bootstrap+jQuery+MySQL; I helped to build and maintain the internal software of a startup. I also have experience with Livewire, VueJS, Tailwind, Jquery, MySQL, MongoDB, Wordpress and more. For years i worked in the IT department and 5 years ago i started to developing websites. Now i'm a full stack developer full time and i love what i do. Best desition ever!
 
 #### Laravel Evangelist, PHP Lover & Javascript enthusiast.
 
