@@ -40,8 +40,3 @@ My Current Stack is: Laravel + TailwindCSS + VueJS (or Livewire + AlpineJS)
 <a href="https://profile.codersrank.io/user/t1t0/">
   <img align="center" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=t1t0&branding=false" />
 </a>
-
-### Portfolio
-<a href="https://profile.codersrank.io/user/t1t0/">
-  <img align="center" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=portfolio&username=t1t0" />
-</a>
