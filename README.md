@@ -17,9 +17,9 @@ My Current Stack is: Laravel + TailwindCSS + VueJS (also Livewire or React)
 - 🌱 I’m currently learning design patterns and SOLID principles.
 - 👯 I’m looking to collaborate on Open Source Projects
 - 💬 Ask me about anything. I'm happy to help.
-- 📫 How to reach me: [![Linkedin](https://img.shields.io/badge/-Viktor_Rodriguez-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/viktor-a-rodriguez-o-357a8334/)
+- 📫 How to reach me: [![Linkedin](https://img.shields.io/badge/-Viktor_Rodriguez-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/viktor-a-rodriguez-o/)
 [![Twitter](https://img.shields.io/badge/-@viktort1t0-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/viktort1t0)
-[![Gmail](https://img.shields.io/badge/-viktort1t0.dev-D44638?style=flat&logo=Gmail&logoColor=white)](mailto:viktort1t0.dev@gmail.com)
+[![Gmail](https://img.shields.io/badge/-viktor.a.rodriguez.o-D44638?style=flat&logo=Gmail&logoColor=white)](mailto:viktor.a.rodriguez.o@gmail.com)
 - 😄 Pronouns: he|his
 - ⚡ I Speak: Spanish (Native) | English (Advance)
 
