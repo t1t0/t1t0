@@ -5,23 +5,33 @@
 
 Here are some ideas to get you started:
 -->
-I am a full stack developer with a preference for the backend, specialized in PHP (Laravel) and Javascript (nodeJs), and with knowledge in frontend development (HTML, CSS, jQuery, Vue, React, and others). Additionally, I have an understanding and experience with RDBs (SQL, MySQL, MariaDB, PostgreSQL), NoSQLDBs (MongoDB), Linux systems administration, and expanding knowledge in AWS, Docker, Kubernetes, CI / CD, Github actions, agile methodologies, and the migratory process between PHP and Node.
+Full Stack Developer | Backend Enthusiast | PHP & JavaScript Specialist
 
-I was part of a team that build the Library management system and the student information system of a university using Laravel+Bootstrap+jQuery+MySQL; I helped to build and maintain the internal software of a startup. And recently i worked as a consultant for a startup to help them solve some issues with a different approach. For years i worked in the IT department and 5 years ago i started to developing websites. Now i'm a developer full time and i love what i do. Best desition ever!
+I’m a Full Stack Developer who enjoys the whole stack but has a slight preference for the backend (PHP & Laravel, Node.js). I also know my way around the frontend with technologies like HTML, CSS, jQuery, Vue, and React.
 
-#### Laravel Evangelist, PHP Lover & Javascript enthusiast.
+I’ve built strong foundations in databases, working with both Relational (SQL, MySQL, MariaDB, PostgreSQL) and NoSQL (MongoDB) systems. I’m comfortable with Linux system administration and I’m always diving deeper into AWS, Docker, Kubernetes, and CI/CD pipelines with tools like GitHub Actions. Oh, and I’m also familiar with the joys (and headaches) of migrating between PHP and Node.js.
 
-My Current Stack is: Laravel + TailwindCSS + VueJS (also Livewire or React)
+Experience Highlights:
 
-- 🔭 I’m working on Improve and increase my current stack skills.
-- 🌱 I’m currently learning design patterns and SOLID principles.
-- 👯 I’m looking to collaborate on Open Source Projects
-- 💬 Ask me about anything. I'm happy to help.
-- 📫 How to reach me: [![Linkedin](https://img.shields.io/badge/-Viktor_Rodriguez-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/viktor-a-rodriguez-o/)
-[![Twitter](https://img.shields.io/badge/-@viktort1t0-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/viktort1t0)
-[![Gmail](https://img.shields.io/badge/-viktor.a.rodriguez.o-D44638?style=flat&logo=Gmail&logoColor=white)](mailto:viktor.a.rodriguez.o@gmail.com)
-- 😄 Pronouns: he|his
-- ⚡ I Speak: Spanish (Native) | English (Advance)
+	•	I contributed to a university’s Library Management System and Student Information System using Laravel, Bootstrap, jQuery, and MySQL.
+	•	Played a key role in building and maintaining internal software for a startup.
+	•	Recently consulted for another startup, offering fresh perspectives and solutions to tackle their tech challenges.
+	•	After years in IT, I transitioned into full-time development five years ago—best decision ever!
+
+My Current Stack:
+
+Laravel + TailwindCSS + VueJS (also Livewire or React depending on the project).
+
+	•	🔭 Actively working on honing my skills and expanding my stack.
+	•	🌱 Learning design patterns and mastering SOLID principles.
+	•	👯 Open to collaborations on Open Source Projects.
+	•	💬 Ask me anything—I’m always happy to help.
+	•	📫 Feel free to reach out:
+	•	⚡ Fluent in Spanish (native) and English (advanced)
+
+ Titles I proudly wear:
+
+Laravel Evangelist, PHP Lover, and JavaScript Enthusiast.
 
 
 <!-- Profile View Count -->
