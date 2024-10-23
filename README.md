@@ -16,13 +16,10 @@ tools like GitHub Actions. Oh, and I’m also familiar with the joys (and headac
 
 Experience Highlights:
 
-	•	I contributed to a university’s Library Management System and Student Information System 
- using Laravel, Bootstrap, jQuery, and MySQL.
-	•	Played a key role in building and maintaining internal software for a startup.
-	•	Recently consulted for another startup, offering fresh perspectives and solutions 
- to tackle their tech challenges.
-	•	After years in IT, I transitioned into full-time development five years ago—best 
- decision ever!
+	• I contributed to a university’s Library Management System and Student Information System using Laravel, Bootstrap, jQuery, and MySQL.
+	• Played a key role in building and maintaining internal software for a startup.
+	• Recently consulted for another startup, offering fresh perspectives and solutions to tackle their tech challenges.
+	• After years in IT, I transitioned into full-time development five years ago—best decision ever!
 
 My Current Stack:
 
