@@ -7,16 +7,22 @@ Here are some ideas to get you started:
 -->
 Full Stack Developer | Backend Enthusiast | PHP & JavaScript Specialist
 
-I’m a Full Stack Developer who enjoys the whole stack but has a slight preference for the backend (PHP & Laravel, Node.js). I also know my way around the frontend with technologies like HTML, CSS, jQuery, Vue, and React.
+I’m a Full Stack Developer who enjoys the whole stack but has a slight preference for the backend (PHP & Laravel, 
+Node.js). I also know my way around the frontend with technologies like HTML, CSS, jQuery, Vue, and React.
 
-I’ve built strong foundations in databases, working with both Relational (SQL, MySQL, MariaDB, PostgreSQL) and NoSQL (MongoDB) systems. I’m comfortable with Linux system administration and I’m always diving deeper into AWS, Docker, Kubernetes, and CI/CD pipelines with tools like GitHub Actions. Oh, and I’m also familiar with the joys (and headaches) of migrating between PHP and Node.js.
+I’ve built strong foundations in databases, working with both Relational (SQL, MySQL, MariaDB, PostgreSQL) and NoSQL (MongoDB) systems. 
+I’m comfortable with Linux system administration and I’m always diving deeper into AWS, Docker, Kubernetes, and CI/CD pipelines with 
+tools like GitHub Actions. Oh, and I’m also familiar with the joys (and headaches) of migrating between PHP and Node.js.
 
 Experience Highlights:
 
-	•	I contributed to a university’s Library Management System and Student Information System using Laravel, Bootstrap, jQuery, and MySQL.
+	•	I contributed to a university’s Library Management System and Student Information System 
+ using Laravel, Bootstrap, jQuery, and MySQL.
 	•	Played a key role in building and maintaining internal software for a startup.
-	•	Recently consulted for another startup, offering fresh perspectives and solutions to tackle their tech challenges.
-	•	After years in IT, I transitioned into full-time development five years ago—best decision ever!
+	•	Recently consulted for another startup, offering fresh perspectives and solutions 
+ to tackle their tech challenges.
+	•	After years in IT, I transitioned into full-time development five years ago—best 
+ decision ever!
 
 My Current Stack:
 
