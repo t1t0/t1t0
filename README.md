@@ -1,40 +1,61 @@
-### Hi there, I'm Viktor Rodriguez
+# Hey, I'm Viktor Rodriguez! 👋
 
-<!--
-**t1t0/t1t0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full Stack Developer | Backend Specialist | PHP & JavaScript Enthusiast**
 
-Here are some ideas to get you started:
--->
-Full Stack Developer | Backend Enthusiast | PHP & JavaScript Specialist
+I'm a passionate Full Stack Developer with a knack for crafting robust backend systems and dynamic frontends. With a strong foundation in **PHP (Laravel)** and **JavaScript (Node.js, Vue.js, React)**, I thrive on solving complex problems and building scalable solutions. My journey in tech spans over a decade, with the last 7+ years dedicated to full-stack development after transitioning from IT—a move I’d make again in a heartbeat!
 
-I’m a Full Stack Developer who enjoys the whole stack but has a slight preference for the backend (PHP & Laravel, 
-Node.js). I also know my way around the frontend with technologies like HTML, CSS, jQuery, Vue, and React.
+---
 
-I’ve built strong foundations in databases, working with both Relational (SQL, MySQL, MariaDB, PostgreSQL) and NoSQL (MongoDB) systems. 
-I’m comfortable with Linux system administration and I’m always diving deeper into AWS, Docker, Kubernetes, and CI/CD pipelines with 
-tools like GitHub Actions. Oh, and I’m also familiar with the joys (and headaches) of migrating between PHP and Node.js.
+## 🛠️ What I Do
 
-Experience Highlights:
+- **Backend Development**: Building performant APIs and server-side logic with **Laravel**, **Node.js**, and **Express**.
+- **Frontend Development**: Creating responsive, user-friendly interfaces using **Vue.js**, **React**, **Tailwind CSS**, and **Bootstrap**.
+- **Databases**: Designing and optimizing both **Relational** (MySQL, PostgreSQL, MariaDB) and **NoSQL** (MongoDB) databases.
+- **DevOps & Cloud**: Managing **Linux** servers, deploying with **Docker**, **Kubernetes**, and automating workflows with **GitHub Actions** and **AWS**.
+- **System Architecture**: Applying **SOLID principles** and **design patterns** to build clean, maintainable code.
 
-	• I contributed to a university’s Library Management System and Student Information System using Laravel, Bootstrap, jQuery, and MySQL.
-	• Played a key role in building and maintaining internal software for a startup.
-	• Recently consulted for another startup, offering fresh perspectives and solutions to tackle their tech challenges.
-	• After years in IT, I transitioned into full-time development five years ago—best decision ever!
+---
 
-My Current Stack:
+## 🚀 Career Highlights
 
-Laravel + TailwindCSS + VueJS (also Livewire or React depending on the project).
+- **Software Developer at Multiple Startups (2017–present)**: Built and maintained internal tools, delivering scalable solutions for fast-paced environments.
+- **Consultant for Startups**: Provided strategic tech solutions, modernizing legacy systems and optimizing workflows.
+- **Tech Transition**: Evolved from IT support to full-time development, mastering the full stack over 9 years.
 
-	•	🔭 Actively working on honing my skills and expanding my stack.
-	•	🌱 Learning design patterns and mastering SOLID principles.
-	•	👯 Open to collaborations on Open Source Projects.
-	•	💬 Ask me anything—I’m always happy to help.
-	•	📫 Feel free to reach out:
-	•	⚡ Fluent in Spanish (native) and English (advanced)
+---
 
- Titles I proudly wear:
+## 🧰 My Current Stack
 
-Laravel Evangelist, PHP Lover, and JavaScript Enthusiast.
+- **Backend**: PHP, Laravel, Yii, Node.js, Express, Adonisjs, Loopback, Nestjs
+- **Frontend**: Livewire, InertiaJs, React, Vue.js, TailwindCSS, Bootstrap, jQuery
+- **Databases**: MySQL, PostgreSQL, MariaDB, MongoDB
+- **DevOps**: Docker, AWS, Linux
+- **Tools**: Git, Postman, VS Code, Webpack
+
+---
+
+## 🌱 What’s Next?
+
+- Deepening my expertise in **microservices** and **cloud-native architecture**.
+- Exploring **TypeScript** and **GraphQL** for more robust APIs.
+- Contributing to **open-source projects** to give back to the community.
+
+---
+
+## 🌍 Let’s Connect!
+
+- 📫 **Email**: viktor.rodriguez@gmail.com (replace with your preferred contact)
+- 🌐 **LinkedIn**: [Viktor Rodriguez](https://www.linkedin.com/in/viktor-a-rodriguez-o/)
+- 💻 **GitHub**: [t1t0](https://github.com/t1t0)
+- 🌟 **Fun Fact**: I’m a native Spanish speaker, fluent in English, and love debugging code as much as I enjoy a good café con leche!
+
+---
+
+## 💡 Titles I Wear Proudly
+
+**Laravel Evangelist** | **PHP Wizard** | **JavaScript Aficionado** | **Ninja Debugger and Problem Solver**
+
+> 💬 *Have a project idea or need tech advice? I’m always up for a chat!*
 
 
 <!-- Profile View Count -->
