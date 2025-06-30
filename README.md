@@ -2,7 +2,7 @@
 
 **Full Stack Developer | Backend Specialist | PHP & JavaScript Enthusiast**
 
-I'm a passionate Full Stack Developer with a knack for crafting robust backend systems and dynamic frontends. With a strong foundation in **PHP (Laravel)** and **JavaScript (Node.js, Vue.js, React)**, I thrive on solving complex problems and building scalable solutions. My journey in tech spans over a decade, with the last 7+ years dedicated to full-stack development after transitioning from IT—a move I’d make again in a heartbeat!
+I'm a passionate Full Stack Developer with a knack for crafting robust backend systems and dynamic frontends. With a strong foundation in **PHP (Laravel)** and **JavaScript (Node.js, Vue.js, React)**, I thrive on solving complex problems and building scalable solutions. My journey in tech spans over a decade, with the last 9+ years dedicated to full-stack development after transitioning from IT—a move I’d make again in a heartbeat!
 
 ---
 
