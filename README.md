@@ -44,7 +44,7 @@ I'm a passionate Full Stack Developer with a knack for crafting robust backend s
 
 ## 🌍 Let’s Connect!
 
-- 📫 **Email**: viktor.rodriguez@gmail.com (replace with your preferred contact)
+- 📫 **Email**: viktor.a.rodriguez.o@gmail.com
 - 🌐 **LinkedIn**: [Viktor Rodriguez](https://www.linkedin.com/in/viktor-a-rodriguez-o/)
 - 💻 **GitHub**: [t1t0](https://github.com/t1t0)
 - 🌟 **Fun Fact**: I’m a native Spanish speaker, fluent in English, and love debugging code as much as I enjoy a good café con leche!
